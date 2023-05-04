@@ -1,6 +1,8 @@
 # SECURE BACKUP UNTOACHED
 Only 2 lines of the Readme.md where modified in case the official is down. We are not responsible, use in case is down the official repo. This is for eduacaional purposes only.
 
+# gpt4free
+
 Due to legal and personal issues, the development speed of this Repository may slow down over the next one to two weeks. I apologize for any inconvenience this may cause. I have been putting a lot of effort into this small personal/educational project, and it is now on the verge of being taken down.
 
 <p>You may join our discord: <a href="https://discord.com/invite/gpt4free">discord.gg/gpt4free<a> for further updates. <a href="https://discord.gg/gpt4free"><img align="center" alt="gpt4free Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a></p>
